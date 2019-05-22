@@ -1,0 +1,12 @@
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project0\PizzaBox\PizzaBox.Testing.csproj\bin\Debug\netstandard2.0\PizzaBox.Testing.deps.json
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project0\PizzaBox\PizzaBox.Testing.csproj\bin\Debug\netstandard2.0\PizzaBox.Testing.dll
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project0\PizzaBox\PizzaBox.Testing.csproj\bin\Debug\netstandard2.0\PizzaBox.Testing.pdb
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project0\PizzaBox\PizzaBox.Testing.csproj\obj\Debug\netstandard2.0\PizzaBox.Testing.csproj.CoreCompileInputs.cache
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project0\PizzaBox\PizzaBox.Testing.csproj\obj\Debug\netstandard2.0\PizzaBox.Testing.AssemblyInfoInputs.cache
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project0\PizzaBox\PizzaBox.Testing.csproj\obj\Debug\netstandard2.0\PizzaBox.Testing.AssemblyInfo.cs
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project0\PizzaBox\PizzaBox.Testing.csproj\obj\Debug\netstandard2.0\PizzaBox.Testing.dll
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project0\PizzaBox\PizzaBox.Testing.csproj\obj\Debug\netstandard2.0\PizzaBox.Testing.pdb
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project0\PizzaBox\PizzaBox.Testing.csproj\obj\Debug\netstandard2.0\PizzaBox.Testing.csprojAssemblyReference.cache
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project0\PizzaBox\PizzaBox.Testing.csproj\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project0\PizzaBox\PizzaBox.Testing.csproj\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project0\PizzaBox\PizzaBox.Testing.csproj\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
